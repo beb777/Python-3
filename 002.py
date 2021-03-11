@@ -6,5 +6,5 @@ if numbers % 2 == 0:
 else:
    print(f"Number {numbers} is Odd")
 
-# 
+#
 print('___________________________________________________')
